@@ -1,0 +1,21 @@
+.center {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.password-length {
+    display: flex;
+    flex-direction: column;
+    /* width: 100%; */
+    align-items: center;
+}
+
+#length {
+    width: 100%;
+    margin-top: 10px;
+}
+
+.button {
+    margin-top: 30px;
+}
